@@ -1,13 +1,11 @@
 //============================================================================
-// Name        : .cpp
-// Author      : Sibt ul Hussain
-// Version     :
-// Copyright   : (c) Reserved
-// Description : Basic 2D game of Brick Slayer...
+//	Hassan Shahzad
+//	18i-0441
+//	FAST-NUCES
+//	Brick Slayer Project
+//	Contact at : chhxnshah@gmail.com
 //============================================================================
 
-#ifndef Bomberman_CPP_
-#define Bomberman_CPP_
 #include "Board.h"
 #include "util.h"
 #include "Shape.h"
