@@ -1,13 +1,12 @@
 //============================================================================
-// Name        : .cpp
-// Author      : HXN the GREAT!
-// Version     : Final
-// Copyright   : (c) Reserved
-// Description : Basic 2D game of HXN...
+//	Hassan Shahzad
+//	18i-0441
+//	FAST-NUCES
+//	Bubble Pop Game Project
+//	Contact at : chhxnshah@gmail.com
 //============================================================================
 
-#ifndef Bomberman_CPP_
-#define Bomberman_CPP_
+
 //#include "Board.h"
 #include "util.h"
 #include "Circle.h"
