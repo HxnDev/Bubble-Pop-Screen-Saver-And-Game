@@ -1,6 +1,6 @@
 # Screen Saver
 
-You are required to create desktop screen saver having moving shapes (like Circle, Rectangle, Square or even Triangle, whereas other shapes can be found using below URL). Shapes should have
+We were required to create desktop screen saver having moving shapes (like Circle, Rectangle, Square or even Triangle, whereas other shapes can be found using below URL). Shapes should have
 •     different size (height,width/radius)
 •     different colors
 •     different starting location
